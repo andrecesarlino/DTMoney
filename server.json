@@ -1,0 +1,44 @@
+{
+  "transaction": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-02-23T19:34:09.962Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 23,
+      "createdAt": "2023-02-22T19:34:09.962Z"
+    },
+    {
+      "id": 3,
+      "description": "Bicicleta",
+      "type": "outcome",
+      "category": "esporte",
+      "price": 5000,
+      "createdAt": "2023-02-22T19:34:09.962Z"
+    },
+    {
+      "description": "testando transacao",
+      "price": 12,
+      "category": "dindin",
+      "type": "income",
+      "createdAt": "2023-03-02T19:07:08.936Z",
+      "id": 4
+    },
+    {
+      "description": "Pastelzinho",
+      "price": 2500,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-02T19:25:47.218Z",
+      "id": 5
+    }
+  ]
+}
